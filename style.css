@@ -1,0 +1,30 @@
+
+#jumboContainer {
+    margin-top: 70px;
+    
+}
+
+.jumbotron {
+    background-color: lightskyblue;
+}
+
+#jumboContainer img {
+    height: 280px;
+    width: 200px;
+    border-radius: 20%;
+}
+
+
+.dates {
+    color: peru;
+}
+
+#workHeading{
+    margin: 20px;
+    padding: 30px;
+    background-color:lightskyblue;
+}
+
+.marginCol{
+    margin: 30px;
+}
